@@ -11,6 +11,7 @@ namespace whatup_boys
         static void Main(string[] args)
         {
             Console.WriteLine("SUP!");
+            Console.WriteLine("HEY!");
         }
     }
 }
