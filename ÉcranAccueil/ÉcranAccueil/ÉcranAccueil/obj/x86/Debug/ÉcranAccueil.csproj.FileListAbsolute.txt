@@ -1,0 +1,2 @@
+Z:\ProjetCLGWithTheCrew\ÉcranAccueil\ÉcranAccueil\ÉcranAccueil\obj\x86\Debug\ÉcranAccueil.csprojResolveAssemblyReference.cache
+Z:\ProjetCLGWithTheCrew\ÉcranAccueil\ÉcranAccueil\ÉcranAccueil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt

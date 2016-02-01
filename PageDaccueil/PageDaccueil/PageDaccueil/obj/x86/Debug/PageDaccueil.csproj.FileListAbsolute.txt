@@ -1,0 +1,6 @@
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\bin\x86\Debug\PageDaccueil.exe
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\bin\x86\Debug\PageDaccueil.pdb
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\obj\x86\Debug\PageDaccueil.csprojResolveAssemblyReference.cache
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\obj\x86\Debug\PageDaccueil.exe
+Z:\ProjetCLGWithTheCrew\PageDaccueil\PageDaccueil\PageDaccueil\obj\x86\Debug\PageDaccueil.pdb
