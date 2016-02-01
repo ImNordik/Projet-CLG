@@ -12,6 +12,7 @@ namespace whatup_boys
         {
             Console.WriteLine("SUP!");
             Console.WriteLine("HEY!");
+            int nombre2;
         }
     }
 }

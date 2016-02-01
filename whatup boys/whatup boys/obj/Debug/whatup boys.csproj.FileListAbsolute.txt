@@ -4,3 +4,6 @@ Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\bin\Debug\whatup boys.pdb
 Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.csprojResolveAssemblyReference.cache
 Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.exe
 Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.pdb
+C:\Users\201431859\Documents\GitHub\Projet-CLG\whatup boys\whatup boys\bin\Debug\whatup boys.exe.config
+C:\Users\201431859\Documents\GitHub\Projet-CLG\whatup boys\whatup boys\obj\Debug\whatup boys.exe
+C:\Users\201431859\Documents\GitHub\Projet-CLG\whatup boys\whatup boys\obj\Debug\whatup boys.pdb
