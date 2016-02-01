@@ -1,0 +1,6 @@
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\bin\Debug\whatup boys.exe.config
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\bin\Debug\whatup boys.exe
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\bin\Debug\whatup boys.pdb
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.csprojResolveAssemblyReference.cache
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.exe
+Z:\ProjetCLGWithTheCrew\whatup boys\whatup boys\obj\Debug\whatup boys.pdb
